@@ -3,6 +3,8 @@
 #### This project presents a Landing Page to attract more customers and to help the client calculate the cost of the product desired by the client. 
 The project used such tools as:
 - HTML/Css
+- JavaScript
+- JQuery
 - Photoshop
 - Figma
 - Zeplin, etc.
